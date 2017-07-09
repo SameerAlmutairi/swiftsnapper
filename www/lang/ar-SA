@@ -1,0 +1,44 @@
+{
+  "app": {
+    "name": "SwiftSnapper",
+    "lang":  "ar-SA"
+  },
+
+  "views": {
+    "account": {
+      "logIn": "تسجيل الدخول",
+      "signUp": "الاشتراك",
+
+      "logInView": {
+        "username": "اسم المستخدم",
+        "password": "كلمة المرور",
+        "wrongUsernameOrPassword": "خطأ في اسم المستخدم أو كلمة المرور",
+        "failedToLogIn": "خطأ في تسجيل الدخول",
+        "userNotValid": "اسم المستخدم المدخل غير صالح",
+        "loggingIn": "تسجيل الدخول..."
+      },
+      "signUpView": {
+        "username": "اسم المستخدم",
+        "password": "كلمة المرور",
+        "verifynumber": "تحقق من الرقم",
+        "repeatPassword": "تأكيد كلمة المرور"
+      }
+    },
+
+    "overview": {
+      "emptyFeed": "لا يوجد شيء للعرض",
+      "views": {
+        "stories": {
+          "title": "قصص",
+          "myStory": "قصتي",
+          "explore": "استكشف"
+        }
+      }
+    },
+
+    "settings": {
+      "title": "الاعدادات",
+      "logout": "تسجيل الخروج"
+    }
+  }
+}
